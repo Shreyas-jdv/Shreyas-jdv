@@ -32,10 +32,11 @@
 
 ---
 
-Student | Developer | Researcher 
-2x Oracle Certified 🏅
-Master's in AI @ Monash University 🎓 
-
+- 🌏 I live in Melbourne, Australia
+- 😄 I am a Student | Developer | Researcher 
+- 🏅 2x Oracle Certified 
+- 🎓 Pursuing Master's in AI @ Monash University  
+- 📫 How to reach me: [contact me here]()
 
 
 I'm a developer experience engineer for [Resend](https://resend.com), a
@@ -45,8 +46,8 @@ I write [Ruby gems](https://rubygems.org/profiles/philnash),
 
 - 🌏 I live in Melbourne, Australia
 - 💬 Ask me about JavaScript, TypeScript, AI
-- 📫 How to reach me: [contact me here](https://philna.sh/contact)
-- 😄 Pronouns: he/him
+- 📫 How to reach me: [contact me here](shreyasj.jadhav@gmail.com)
+-  Pronouns: he/him
 - 🎧 Listening to: ska punk
 - ⚡ Fun fact: Sometimes I run karaoke nights at developer conferences
 
