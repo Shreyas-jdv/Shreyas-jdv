@@ -36,7 +36,7 @@
 - 😄 I am a Student | Developer | Researcher 
 - 🏅 2x Oracle Certified 
 - 🎓 Pursuing Master's in AI @ Monash University  
-- 📫 How to reach me: [contact me here]()
+- 📫 How to reach me: [contact me here](shreyasj.jadhav@gmail.com)
 
 
 I'm a developer experience engineer for [Resend](https://resend.com), a
